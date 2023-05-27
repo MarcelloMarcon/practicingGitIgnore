@@ -1,1 +1,9 @@
 node_modules/
+
+# z files - Ignore all files starting with "z."
+z.*
+
+# .env files - Ignore all files ending in ".env"
+*.env
+
+/artifacts
